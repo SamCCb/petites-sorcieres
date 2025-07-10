@@ -1,0 +1,11 @@
+{
+  "MODULE.petitesSorcieres": {
+    "name": "Petites Sorcières",
+    "description": "Système pour le jeu 'Petites Sorcières' de Antoine Bauza"
+  },
+  "ACTOR.Type.character": "Sorcière",
+  "ACTOR.Name": "Nom de la sorcière",
+  "ACTOR.Age": "Âge",
+  "ACTOR.Gentillesse": "Points de gentillesse",
+  "ACTOR.Objets": "Objets magiques"
+}

@@ -1,0 +1,12 @@
+form {
+  background-color: #f7f0ff;
+  border: 2px dashed #b48fff;
+  padding: 1rem;
+  font-family: 'Comic Sans MS', cursive;
+  color: #4c2c72;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
